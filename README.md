@@ -5,7 +5,7 @@
 <br/> <br/> 
 I'm a firm believer that quality code is readabable, maintainable, and scalable. That's why I strive to write clean, well-structured code that's easy to understand and modify. I endeavor to produce code that is tidy and well-organized, making it simple to comprehend and adapt. 
 <br/> <br/> 
-You may contact me via my socials or portfolio site.
+You can contact me via my socials or portfolio site.
 </span>
 <hr />
 <h2 align="center">Skills</h2>
