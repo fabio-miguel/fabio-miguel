@@ -1,4 +1,4 @@
-###  Full-Stack Developer | 
+###  Full-Stack Developer
 [fabiomiguel.com](https://fabiomiguel.com)
 
 <table><tr>
