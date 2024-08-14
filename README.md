@@ -4,7 +4,8 @@
 <table><tr>
 
 ---
-**Frontend:** `JavaScript`, `TypeScript`, `React.js`, `HTML`, `CSS`, `SASS`, `Tailwind`, `Redux`, `Next.js`, `Remix.js`, `Storybook`
+**Frontend:** 
+`JavaScript`, `TypeScript`, `React.js`, `Redux`, `Next.js`, `Remix.js`, `HTML`, `CSS`, `SASS`, `Tailwind CSS`, `Sanity.io`, `Storybook`
 
 **Backend:** `Node.js`, `Express.js`, `Rest API`, `GraphQL`, `PostgreSQL`
 
